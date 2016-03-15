@@ -1,0 +1,19 @@
+{
+  "name": "@ryan.b.harvey/how-to-npm",
+  "version": "1.0.0",
+  "description": "how-to-npm challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihonjinrxs/how-to-npm.git"
+  },
+  "author": "Ryan B. Harvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihonjinrxs/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/nihonjinrxs/how-to-npm#readme"
+}
